@@ -1,2 +1,1 @@
-onclick="alert('xss')
-
+alert(0000);
